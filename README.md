@@ -44,7 +44,7 @@
 
 
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=ankushwairagade88@github.com
+https://github-readme-streak-stats.herokuapp.com/?user=ankushwairagade@github.com
 
 
 

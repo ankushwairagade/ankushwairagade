@@ -44,9 +44,10 @@
 
 
 ### :fire: My Stats :
-// https://github-readme-streak-stats.herokuapp.com/?user=ankushwairagade
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ankushwairagade&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ankushwairagade&theme=merko&hide_border=true)](https://git.io/streak-stats)
 
 
 <!--

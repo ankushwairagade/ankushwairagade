@@ -19,7 +19,7 @@
 <br>
 <a>
 Looking to further enhance skills as the prospective of full stack developer. 
-<a>
+</a>
 <br></br>
 
 
@@ -74,11 +74,11 @@ Looking to further enhance skills as the prospective of full stack developer.
 class About extends Me { 
   const myTools = {  
     "ProgramingLanguages" : { "Java", "C++", "C", "Python", "kotlin" },
-    "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
+    "OtherLanguages" : { "HTML", "CSS", "Bash", "XML", "Markdown" },
     "Database" : { "Firebase", "Mysql", " Redis", "MongoDB", "Postgresql" },
     "Editors" : { "Vscode", "Sublime", "Intellij", "STS", "NetBeans" },
     "Platforms" : { "GNU/Linux", "Windows" },
-    "OtherTools" : { "Git", "Figma", "Photoshop", "Gimp", "Lightroom", "Kafka" }
+    "OtherTools" : { "Git", "Figma", "Photoshop", "Gimp", "Lightroom","Postman", "Kafka" }
   };
 }
 ```
@@ -86,7 +86,12 @@ class About extends Me {
 -  <img alt="GIF" src="images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Spring Boot and Frontend**. <br>
 - <img src="images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
 - <img src="images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Pc building, Backend Structure, or anything**. <br>
-- <img src="images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on : **[LinkedIn](https://www.linkedin.com/in/ankush-wairagade/)**<br>
+- <img src="images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on : **[LinkedIn](https://www.linkedin.com/in/ankush-wairagade/)** , **[Instagram](https://www.instagram.com/ankushwairagade/)**
+
+
+<br>
+
+
 
 <img width="15%" align="right" alt="Github Image" src="images/linux_rounded.gif?raw=true" />
 
